@@ -1,0 +1,529 @@
+
+
+body{
+
+    background-image: url(fondoo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.fenix{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.jett{
+    background-color: rgb(215, 250, 250);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.reyna{
+    background-color: rgb(236, 181, 247);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.raze{
+    background-color: rgb(241, 208, 116);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.yoru{
+    background-color: rgb(116, 174, 241);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.neon{
+    background-color: rgb(159, 247, 235);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.iso{
+    background-color: rgb(171, 115, 245);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.sova{
+    background-color: rgb(95, 221, 238);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.breach{
+    background-color: rgb(237, 174, 15);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.skye{
+    background-color: rgb(147, 245, 162);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.kayo{
+    background-color: rgb(74, 134, 237);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.fade{
+    background-color: rgb(181, 95, 117);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.gekko{
+    background-color: rgb(141, 239, 136);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.brimstone{
+    background-color: rgb(204, 183, 137);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.omen{
+    background-color: rgb(137, 93, 178);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.viper{
+    background-color: rgb(160, 251, 206);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.astra{
+    background-color: rgb(192, 132, 220);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.harbor{
+    background-color: rgb(122, 226, 245);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.clove{
+    background-color: rgb(251, 183, 233);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.sage{
+    background-color: rgb(153, 172, 206);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.kill{
+    background-color: rgb(240, 249, 165);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.cy{
+    background-color: rgb(168, 166, 165);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.chamber{
+    background-color: rgb(255, 227, 134);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.vyse{
+    background-color: rgb(178, 134, 255);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.dead{
+    background-color: rgb(186, 184, 184);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+.contenedor{
+
+    display: flex;
+    justify-content: center;
+}
+.contenedor-3{
+
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.normal-competitivo{
+    display: flex;
+    justify-content: center;
+
+
+}
+.moneda{
+    display: flex;
+    justify-content: center;
+}
+.imagen-1{
+    width: 125px;
+    height: 125px;
+    margin-left: 10px;
+}
+.imagen-2{
+    width: 125px;
+    height: 125px;
+    margin-left: 10px;
+}
+.imagen-3{
+    width: 345px;
+    height: 150px;
+    margin-left: 10px;
+}
+.imagen-4{
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+}
+.seleccion{
+
+    display: flex;
+    justify-content: left;
+}
+.tienda{
+
+    display: flex;
+    justify-content: left;
+}
+.noche{
+    display: flex;
+    justify-content: center;
+
+}
+.valopoints{
+    width: 125px;
+    height: 125px;
+    margin-left: 10px;
+}
+.rp{
+    width: 125px;
+    height: 125px;
+    margin-left: 10px;
+}
+.pase{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.clasificacion{
+    display: flex;
+    justify-content: center;
+}
+.imagen-kru{
+    width: 125px;
+    height: 125px;
+    margin-right: 10px;
+}
+.imagen-levi{
+    width: 125px;
+    height: 125px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+.imagen-fenix{
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+}
+.imagen-jett{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-reyna{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-raze{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-yoru{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-neon{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-iso{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-sova{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-breach{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-skye{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-kayo{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-fade{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-gekko{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-brimstone{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-omen{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-viper{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-astra{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-harbor{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-clove{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-sage{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-kill{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-cy{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-chamber{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-vyse{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.imagen-dead{
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.seleccion-agentes{
+    width: 600px;
+    height: 180px;
+    margin-left: 20px;
+}
+.imagen-noche{
+    width: 600px;
+    height: 180px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.sunset{
+    display: flex;
+    width: 740px;
+}
+.lotus{
+    display: flex;
+    width: 740px;
+}
+.pearl{
+    display: flex;
+    width: 740px;
+}
+.fracture{
+    display: flex;
+    width: 740px;
+
+}
+.breeze{
+    display: flex;
+    width: 740px;
+}
+.icebox{
+    display: flex;
+    width: 740px;
+}
+.bind{
+    display: flex;
+    width: 740px;
+}
+.haven{
+    display: flex;
+    width: 740px;
+}
+.split{
+    display: flex;
+    width: 740px;
+}
+.ascent{
+    display: flex;
+    width: 740px;
+}
+.abyss{
+    display: flex;
+    width: 740px;
+}
+
+
+
+.imagen-sunset{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-lotus{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-pearl{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-fracture{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-breeze{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-icebox{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-bind{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-haven{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-split{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-ascent{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-abyss{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imagen-armas{
+    width: 450px;
+    height: 250px;
+
+}
+.imagen-tienda{
+    width: 350px;
+    height: 175px;
+    margin-left: 20px;
+}
+.imagen-pase{
+    width: 350px;
+    height: 175px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
